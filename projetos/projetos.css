@@ -1,0 +1,45 @@
+body{
+ background: linear-gradient(135deg, #1e1e2f, #3a3a55);
+}
+
+.subtitle{
+ text-align: center;
+}
+
+.projetos{
+ background-color: #3a3a55;
+ display: flex;
+ width: 30%;
+ height: 550px;
+ 
+}
+
+.projeto1{
+ text-align: center;
+ border-radius: 10%;
+ margin: 1%;
+ font-size: 150%;
+}
+
+.projetos2{
+ margin: 20%;
+}
+
+.img1{
+ width: 50%;
+}
+
+.button{
+ margin: 2%;
+ width: 50%;
+ height: 30px;
+ font-size: 100%;
+ border-radius: 10%;
+ background-color: #1e1e2f;
+ cursor: pointer;
+  transition: background-color 0.3s ease; 
+}
+
+.button:hover{
+ background-color: #696969; 
+}

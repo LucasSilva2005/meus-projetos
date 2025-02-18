@@ -1,2 +1,7 @@
 @import url(portifolio.css);
-@import url(/sobre\ mim/sobre.css);
+@import url(/sobre/sobre.css);
+@import url(/projetos/projetos.html);
+
+body{
+ background: linear-gradient(135deg, #1e1e2f, #3a3a55);
+}
